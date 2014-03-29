@@ -2,3 +2,5 @@ mcscms
 ======
 
 mcscms
+
+simple cms
